@@ -1,0 +1,7 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+psycopg2-binary==2.9.9  # For PostgreSQL database
+python-decouple==3.8    # For environment variables
+phonenumbers==8.13.27   # For validating phone numbers
+django-filter==23.3     # For filtering API queries
